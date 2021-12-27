@@ -22,7 +22,6 @@ public class MissingNumber {
 		solution2(B);
 		solution2(C);
         
-        
     }
 
     public static int solution1(int[] A) {
